@@ -1,4 +1,4 @@
-OBJS = main.c
+OBJS = main.cpp
 
 OBJ_NAME = voronoi
 
